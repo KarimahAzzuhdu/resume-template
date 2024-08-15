@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Karimah Az-Zuhdu Toriqoh Mahmudah"
-resume_title:                   "Student | Developer | Data Analyst | Data Scientist"
+resume_name:                    "Karimah Az-Zuhdu Toriqoh Mahmudah, S.Kom."
+resume_title:                   "Not so Fresh Grad | Try Oracle APEX once | Data Science is cool | Love drink Coffee"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "karimah.atm@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "Bandung, Indonesia"
 resume_header_contact_info:     "Bandung, Indonesia • 0813-2299-4389 • karimah.atm@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am currently a final year student of Computer Science at Universitas Padjadjaran.</p>"
+resume_header_intro: "<p>I just finished my education in Computer Science at Padjadjaran University. My interests are Data Science, Business, Coffee, and Games.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -50,7 +50,7 @@ resume_social_links:
   #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/karimahazzuhdu"
-  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_instagram_url:         "https://www.instagram.com/kaka_karimah/"
   resume_website_url:           "http://karimahazzuhdu.github.io"
   #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
