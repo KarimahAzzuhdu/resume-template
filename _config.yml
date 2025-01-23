@@ -17,10 +17,10 @@ resume_title:                   "Not so Fresh Grad | Try Oracle APEX once | Data
 resume_contact_email:           "karimah.atm@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "0813-2299-4389"
+resume_contact_telephone:       "0813-xxxx-xxxx"
 resume_contact_address:         "Bandung, Indonesia"
 
-resume_header_contact_info:     "Bandung, Indonesia • 0813-2299-4389 • karimah.atm@gmail.com"
+resume_header_contact_info:     "Bandung, Indonesia • 0813-xxxx-xxxx • karimah.atm@gmail.com"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>I just finished my education in Computer Science at Padjadjaran University. My interests are Data Science, Business, Coffee, and Games.</p>"
@@ -40,7 +40,7 @@ resume_section_skills:          false
 resume_section_recognition:     false
 resume_section_links:           true
 resume_section_associations:    true
-resume_section_interests:       true
+resume_section_interests:       false
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
